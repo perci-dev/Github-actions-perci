@@ -12,5 +12,5 @@ jobs:
       - run: echo "Hacemos pull"
       - run: echo "Correr migraciones"
       - run: echo "Generar binario"
-      - run: "Publicar version"
+      - run: echo "Publicar version"
 
